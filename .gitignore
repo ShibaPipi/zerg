@@ -2,3 +2,6 @@
 composer.lock
 *.log
 runtime
+application/extra/secure.php
+application/extra/setting.php
+application/extra/wx.php
